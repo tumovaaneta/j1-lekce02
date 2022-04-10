@@ -18,6 +18,6 @@ dependencies {
 }
 
 application {
-    mainClass = "cz.czechitas.intro.engine.Main"
+    mainClass = "net.sevecek.turtle.engine.SpousteciTrida"
 }
 
