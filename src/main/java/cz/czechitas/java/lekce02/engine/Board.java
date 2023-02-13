@@ -1,4 +1,4 @@
-package net.sevecek.turtle.engine;
+package cz.czechitas.java.lekce02.engine;
 
 import java.awt.*;
 import java.awt.event.*;

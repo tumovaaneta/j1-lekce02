@@ -1,4 +1,4 @@
-package net.sevecek.turtle.engine;
+package cz.czechitas.java.lekce02.engine;
 
 import java.awt.*;
 import java.awt.geom.*;
@@ -11,7 +11,7 @@ import net.sevecek.util.*;
 public class Turtle {
 
     private static final double DEGREES_TO_RADIAN_RATIO = Math.PI / 180.0;
-    private static final String TURTLE_SPRITE_FILE_NAME = "net/sevecek/turtle/images/turtle.png";
+    private static final String TURTLE_SPRITE_FILE_NAME = "cz/czechitas/java/lekce02/images/turtle.png";
     private static final Color DEFAULT_PEN_COLOR = new Color(70, 70, 140);
     private double x;
     private double y;
