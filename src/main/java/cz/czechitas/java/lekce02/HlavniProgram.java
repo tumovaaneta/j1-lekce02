@@ -4,7 +4,7 @@ import cz.czechitas.java.lekce02.engine.Turtle;
 
 public class HlavniProgram {
     private Turtle zofka;
-    private void start() {
+    public void start() {
         zofka = new Turtle();
 
         //TODO tady bude kód
