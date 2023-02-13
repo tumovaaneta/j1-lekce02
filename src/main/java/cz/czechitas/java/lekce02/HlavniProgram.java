@@ -3,9 +3,9 @@ package cz.czechitas.java.lekce02;
 import cz.czechitas.java.lekce02.engine.Turtle;
 
 public class HlavniProgram {
-
+    private Turtle zofka;
     private void start() {
-        Turtle zofka = new Turtle();
+        zofka = new Turtle();
 
         //TODO tady bude kód
     }
